@@ -29,6 +29,10 @@ nav h1,
   margin: 1rem;
 }
 
+nav h1:hover {
+  cursor: pointer;
+}
+
 .nav-links {
   position: absolute;
   top: 4rem;
